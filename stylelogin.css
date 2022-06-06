@@ -1,0 +1,14 @@
+h1{
+	color: blue;
+}
+
+form{
+	border-radius: 10px;
+	border: 1px solid black;
+	width: 230px;
+	height: 250px;
+}
+
+hr{
+	background-color: black;
+}
